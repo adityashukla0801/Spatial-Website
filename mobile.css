@@ -15,7 +15,7 @@ body {
 }
 
 #header .content {
-    height: 83vh;
+    height: 82vh;
 }
 
 #section-1 {
@@ -123,7 +123,7 @@ body {
     }
     #generic-header .nav {
         padding: 1.5rem;
-        font-size: 10px;
+        font-size: 15px;
         width: 100%;
     }
     #generic-header .nav ul li {
