@@ -87,7 +87,7 @@ body {
     body {
         width: 100%;
     }
-    #header {
+    #header::before {
         height: 100%;
     }
     #header .nav {
