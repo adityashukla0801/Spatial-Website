@@ -10,8 +10,17 @@ body {
     font-size: 18px;
 }
 
+#header::before {
+    height: 100%;
+}
+
+#header .nav {
+    width: 100%;
+}
+
 #section-1 {
     flex-direction: column;
+    padding-top: 0;
 }
 
 #section-1 .left>div {
@@ -100,9 +109,6 @@ body {
     }
     #header .content p {
         padding: 0 .5rem;
-    }
-    #section-1 {
-        padding-top: 0;
     }
     #section-4 h1 {
         font-size: 30px;
