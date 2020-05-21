@@ -135,7 +135,7 @@ a {
     justify-content: flex-start;
     width: 50%;
     height: 100%;
-    margin-top: 1.9rem;
+    padding-top: 1.9rem;
 }
 
 #section-1 .left>div {
@@ -162,7 +162,7 @@ a {
     color: #888888;
     font-size: 15px;
     line-height: 2;
-    margin-top: 2rem;
+    padding-top: 2rem;
 }
 
 #section-1 .right>div {
