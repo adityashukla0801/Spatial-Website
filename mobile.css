@@ -25,6 +25,10 @@ body {
     margin-top: 0;
 }
 
+#section-1 .left h1 {
+    color: rgb(55, 55, 165)
+}
+
 #section-1 .right {
     display: block;
     width: 90%;
