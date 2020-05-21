@@ -10,6 +10,14 @@ body {
     font-size: 18px;
 }
 
+#header .nav {
+    height: 10vh;
+}
+
+#header .content {
+    height: 83vh;
+}
+
 #section-1 {
     flex-direction: column;
 }
@@ -23,10 +31,6 @@ body {
     width: 90%;
     height: 20%;
     margin-top: 0;
-}
-
-#section-1 .left h1 {
-    color: rgb(55, 55, 165)
 }
 
 #section-1 .right {
