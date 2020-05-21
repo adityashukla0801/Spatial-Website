@@ -101,6 +101,9 @@ body {
     #header .content p {
         padding: 0 .5rem;
     }
+    #section-1 {
+        padding-top: 0;
+    }
     #section-4 h1 {
         font-size: 30px;
     }
