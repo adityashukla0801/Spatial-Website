@@ -10,14 +10,6 @@ body {
     font-size: 18px;
 }
 
-#header .nav {
-    height: 10vh;
-}
-
-#header .content {
-    height: 82.5vh;
-}
-
 #section-1 {
     flex-direction: column;
 }
